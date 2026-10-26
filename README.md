@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Alessia! 🌿
 
-<!--
-**alessiamaraca/alessiamaraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in environmental data analysis, freshwater ecology, biodiversity, and reproducible scientific research.
 
-Here are some ideas to get you started:
+I use **R** to explore environmental datasets, create visualizations, and communicate scientific findings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Featured Projects
+
+### 🌊 [RiverWatch Time Series](https://github.com/alessiamaraca/riverwatch-time-series)
+
+An R-based analysis of historical river discharge data, exploring long-term trends, seasonal patterns, anomalies, and forecasting.
+
+### 🧬 [Freshwater eDNA Biodiversity](https://github.com/alessiamaraca/freshwater-edna-biodiversity)
+
+A reproducible R workflow exploring freshwater biodiversity using environmental DNA (eDNA) data, including taxon richness, regional comparisons, and changes over time.
+
+## 🛠️ Tools & Skills
+
+- R and RStudio
+- Environmental data analysis
+- Data visualization
+- Statistical analysis
+- Git and GitHub
+- Reproducible research
+
+## 🌱 Current Interests
+
+Freshwater ecosystems, biodiversity monitoring, ecological data, and environmental time series.
