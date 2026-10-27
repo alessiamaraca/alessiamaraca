@@ -33,7 +33,7 @@ An R-based exploration of freshwater biodiversity using publicly available envir
 
 **Focus:** Freshwater ecology, biodiversity monitoring, and ecological statistics.
 
-### 🦋 RomaNatura eDNA Biodiversity Research
+### 🦋 [RomaNatura eDNA Biodiversity Research](https://github.com/alessiamaraca/RomaNatura-eDNA-Biodiversity-Research)
 
 A research project focused on aquatic insect biodiversity and the potential applications of environmental DNA (eDNA) in ecological monitoring.
 
